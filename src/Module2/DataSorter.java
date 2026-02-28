@@ -53,6 +53,6 @@ public class DataSorter {
         times[2] = System.nanoTime() - start;
 
         System.out.println("\nSorted Output: " + Arrays.toString(qData));
-        PerformanceUtils.printTable(algos, times);
+        PerformanceComparator.displayComparisonTable(algos, times);
     }
 }

@@ -1,4 +1,4 @@
-package module3;
+package Module3;
 
 public class SortForAnalysis {
 

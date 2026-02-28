@@ -1,4 +1,4 @@
-package module3;
+package Module3;
 
 import java.util.Random;
 
@@ -6,7 +6,7 @@ public class PerformanceAnalyzer {
 
     public static void analyze() {
 
-        int[] sizes = {100, 500, 1000};
+        int[] sizes = { 100, 500, 1000 };
 
         System.out.println("----------------------------------------------");
         System.out.println("Size\tSort Time(ns)\tSearch Time(ns)");
