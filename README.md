@@ -2,7 +2,7 @@
 
 This repository contains the implementation for CCS2300 Assignment 1, featuring three integrated modules for city planning, data sorting, and performance analysis.
 
-## 🚀 How to Run
+## How to Run
 
 To compile and run the entire project, follow these steps from the root directory:
 
@@ -18,7 +18,7 @@ To compile and run the entire project, follow these steps from the root director
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized into a single entry point that manages all three modules:
 
@@ -29,7 +29,7 @@ The project is organized into a single entry point that manages all three module
 
 ---
 
-## 🛠️ Detailed Module Explanation
+## Detailed Module Explanation
 
 ### 1. Module 1: Smart City Route Planner
 This module focuses on hierarchical data management and network connectivity.
@@ -60,7 +60,7 @@ A controlled laboratory-style analysis of search and sort operations.
 
 ---
 
-## 🖥️ Visual Interface (CLI Examples)
+## Visual Interface (CLI Examples)
 
 Below are text-based representations of what you will see when running the application.
 
